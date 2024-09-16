@@ -73,7 +73,6 @@ const CreateExercisePage = () => {
       <p></p>
     </div>
   )
-
   }
 
   export default CreateExercisePage
