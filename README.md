@@ -1,5 +1,7 @@
 # Exercise Tracking Application
 
+![Exercise Page](exercise-mern/exercise.png)
+
 A simple web application to track exercises using [MongoDB], [Express], [React], and [Node.js] to do CRUD operations.
 
 - The back end REST API is located here [exercise-mern/exercises-rest](exercise-mern/exercises-rest)
